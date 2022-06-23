@@ -1,5 +1,6 @@
 name: basic_flame_game
 description: Creates a basic flutter application which displays a Flame Game.
+repository: https://github.com/erickzanardo/my_bricks/tree/main/basic_flame_game
 
 version: 0.1.0+1
 
