@@ -1,0 +1,19 @@
+name: basic_flame_game
+description: Creates a basic flutter application which displays a Flame Game.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  gameName:
+    type: string
+    description: Name of the game
+    default: MyGame
+    prompt: What is your game name?
+  gameDescription:
+    type: string
+    description: Description of the game
+    default: Simple flame game
+    prompt: What is the description of the game?
